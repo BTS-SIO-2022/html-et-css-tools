@@ -4,6 +4,7 @@
 
 - https://jaetheme.com/balises-html5/
 - https://htmlreference.io/
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 - https://htmlcolorcodes.com/fr/
 
 ## Propriétés et valeurs CSS
