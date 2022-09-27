@@ -55,3 +55,7 @@
 - https://blockly.games/
 - https://grasshopper.app/
 
+## trucs inutiles mais sympas
+- http://www.cupcakeipsum.com/paragraphs/5/length/long/with_love/false/start_with_cupcake/false/seed/8591cae8c0d884fddf3e9e3404959c80f034880948883413e34fd36ea310b646
+- https://www.logoden-biniou.com/
+
